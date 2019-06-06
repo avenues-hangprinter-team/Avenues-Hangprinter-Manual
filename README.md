@@ -1,7 +1,6 @@
 # Avenues Hangprinter Usage Manual
 
 ### Topics:
-- [Avenues Hangprinter Usage Manual](#avenues-hangprinter-usage-manual)
   - [Power](#power)
   - [Octopi](#octopi)
   - [G-code](#g-code)
